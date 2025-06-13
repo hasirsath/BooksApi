@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524726B7-D4F1-4814-9B7D-4DBC27230BF5}|BooksApi.Services\\BooksApi.Services.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi.services\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524726B7-D4F1-4814-9B7D-4DBC27230BF5}|BooksApi.Services\\BooksApi.Services.csproj|solutionrelative:booksapi.services\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524726B7-D4F1-4814-9B7D-4DBC27230BF5}|BooksApi.Services\\BooksApi.Services.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi.services\\services\\newfolder\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524726B7-D4F1-4814-9B7D-4DBC27230BF5}|BooksApi.Services\\BooksApi.Services.csproj|solutionrelative:booksapi.services\\services\\newfolder\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF81A74-35E9-44A4-87EA-CFF808CD6495}|BooksApi.Entity\\BooksApi.Entity.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi.entity\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF81A74-35E9-44A4-87EA-CFF808CD6495}|BooksApi.Entity\\BooksApi.Entity.csproj|solutionrelative:booksapi.entity\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi\\booksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\booksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{524726B7-D4F1-4814-9B7D-4DBC27230BF5}|BooksApi.Services\\BooksApi.Services.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi.services\\booksapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{524726B7-D4F1-4814-9B7D-4DBC27230BF5}|BooksApi.Services\\BooksApi.Services.csproj|solutionrelative:booksapi.services\\booksapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72588BD-2F2C-4B46-AAC1-BDD39FE09B37}|BooksApi.Data\\BooksApi.Data.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi.data\\booksapi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D72588BD-2F2C-4B46-AAC1-BDD39FE09B37}|BooksApi.Data\\BooksApi.Data.csproj|solutionrelative:booksapi.data\\booksapi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\sirsath himani\\source\\repos\\booksapi\\booksapi\\booksapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\booksapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 177,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BooksApi\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:25:15.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Services\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BooksApi.Services\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Services\\Services\\BookService.cs",
+              "RelativeToolTip": "BooksApi.Services\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:39:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\Program.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\Program.cs",
+              "RelativeToolTip": "BooksApi\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:52:14.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Services\\Services\\NewFolder\\IBookService.cs",
+              "RelativeDocumentMoniker": "BooksApi.Services\\Services\\NewFolder\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Services\\Services\\NewFolder\\IBookService.cs",
+              "RelativeToolTip": "BooksApi.Services\\Services\\NewFolder\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:15:19.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Entity\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BooksApi.Entity\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Entity\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BooksApi.Entity\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vx0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:55:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksApi.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Services\\BooksApi.Services.csproj",
+              "RelativeDocumentMoniker": "BooksApi.Services\\BooksApi.Services.csproj",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Services\\BooksApi.Services.csproj",
+              "RelativeToolTip": "BooksApi.Services\\BooksApi.Services.csproj",
+              "ViewState": "AgIAAA0AAADQKD/Kj/IvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T05:14:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\BooksApi.csproj",
+              "RelativeDocumentMoniker": "BooksApi\\BooksApi.csproj",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\BooksApi.csproj",
+              "RelativeToolTip": "BooksApi\\BooksApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T05:15:45.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BooksApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:50:55.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BooksApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BooksApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T04:49:01.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BooksApi.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Data\\BooksApi.Data.csproj",
+              "RelativeDocumentMoniker": "BooksApi.Data\\BooksApi.Data.csproj",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi.Data\\BooksApi.Data.csproj",
+              "RelativeToolTip": "BooksApi.Data\\BooksApi.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T05:13:58.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksApi",
+              "DocumentMoniker": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\BooksApi.csproj",
+              "RelativeDocumentMoniker": "BooksApi\\BooksApi.csproj",
+              "ToolTip": "C:\\Users\\Sirsath Himani\\source\\repos\\BooksApi\\BooksApi\\BooksApi.csproj",
+              "RelativeToolTip": "BooksApi\\BooksApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T04:48:56.403Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

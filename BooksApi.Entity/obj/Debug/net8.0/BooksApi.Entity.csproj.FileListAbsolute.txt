@@ -1,0 +1,14 @@
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\bin\Debug\net8.0\BooksApi.Entity.deps.json
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\bin\Debug\net8.0\BooksApi.Entity.runtimeconfig.json
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\bin\Debug\net8.0\BooksApi.Entity.dll
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\bin\Debug\net8.0\BooksApi.Entity.pdb
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\BooksApi.Entity.csproj.AssemblyReference.cache
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\BooksApi.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\BooksApi.Entity.AssemblyInfoInputs.cache
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\BooksApi.Entity.AssemblyInfo.cs
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\BooksApi.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\BooksApi.Entity.dll
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\refint\BooksApi.Entity.dll
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\BooksApi.Entity.pdb
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\BooksApi.Entity.genruntimeconfig.cache
+C:\Users\Sirsath Himani\source\repos\BooksApi\BooksApi.Entity\obj\Debug\net8.0\ref\BooksApi.Entity.dll
